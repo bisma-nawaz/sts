@@ -34,10 +34,3 @@ The project enables Retrieval-Augmented Generation (RAG) to look up information 
 ## Usage
 
 - Once set up, the STS Assistant is ready to process speech-to-speech tasks with RAG for information lookup.
-## Contact
-
-For any questions or support, please reach out to [bisma-nawaz](https://github.com/bisma-nawaz).
-
----
-
-You can now create the file at the provided link and paste this content into `README.md`. Let me know if you'd like any further modifications!
