@@ -1,4 +1,4 @@
-**STS_boilerplate** provides a boilerplate code for building a **Speech-to-Speech Assistant** using **LiveKit**, **Deepgram**, **OpenAI**, and **Pinecone**. 
+**sts** provides a boilerplate code for building a **Speech-to-Speech Assistant** using **LiveKit**, **Deepgram**, **OpenAI**, and **Pinecone**. 
 
 The project enables Retrieval-Augmented Generation (RAG) to look up information efficiently. With minimal setup, you can have your STS Assistant running in minutes!
 
